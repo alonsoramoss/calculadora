@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alonso\\source\\repos\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C71FCE-83BF-4D33-AEB0-E5AA41080524}|Calculadora\\Calculadora\\Calculadora.csproj|c:\\users\\alonso\\source\\repos\\calculadora\\calculadora\\calculadora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C71FCE-83BF-4D33-AEB0-E5AA41080524}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C71FCE-83BF-4D33-AEB0-E5AA41080524}|Calculadora\\Calculadora\\Calculadora.csproj|c:\\users\\alonso\\source\\repos\\calculadora\\calculadora\\calculadora\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A9C71FCE-83BF-4D33-AEB0-E5AA41080524}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C71FCE-83BF-4D33-AEB0-E5AA41080524}|Calculadora\\Calculadora\\Calculadora.csproj|c:\\users\\alonso\\source\\repos\\calculadora\\calculadora\\calculadora\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A9C71FCE-83BF-4D33-AEB0-E5AA41080524}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alonso\\source\\repos\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\alonso\\source\\repos\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml",
+              "RelativeToolTip": "Calculadora\\Calculadora\\MainPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T23:08:20.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alonso\\source\\repos\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alonso\\source\\repos\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAlwFgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:40:03.65Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alonso\\source\\repos\\Calculadora\\Calculadora\\Calculadora\\App.xaml",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\App.xaml",
+              "ToolTip": "C:\\Users\\alonso\\source\\repos\\Calculadora\\Calculadora\\Calculadora\\App.xaml",
+              "RelativeToolTip": "Calculadora\\Calculadora\\App.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwD0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T23:40:04.749Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

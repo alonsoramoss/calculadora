@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.App">
+    <Application.Resources>
+        <Style TargetType="Button" x:Key="numBtnStyle">
+            <Setter Property="Background" Value="#e6e5eb"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="CornerRadius" Value="30"/>
+            <Setter Property="FontSize" Value="Large"/>
+            <Style.Triggers>
+                <Trigger TargetType="Button" Property="IsPressed" Value="True">
+                    <Setter Property="BackgroundColor" Value="#c4c2d0"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" x:Key="operationButton">
+            <Setter Property="BackgroundColor" Value="#007a20"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="CornerRadius" Value="30"/>
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="HeightRequest" Value="90"/>
+            <Style.Triggers>
+                <Trigger TargetType="Button" Property="IsPressed" Value="True">
+                    <Setter Property="BackgroundColor" Value="#1d7a29"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" x:Key="optionButton">
+            <Setter Property="BackgroundColor" Value="Transparent"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="CornerRadius" Value="30"/>
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="HeightRequest" Value="90"/>
+            <Style.Triggers>
+                <Trigger TargetType="Button" Property="IsPressed" Value="True">
+                    <Setter Property="BackgroundColor" Value="#e0f4f7"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" x:Key="cleanBtn">
+            <Setter Property="BackgroundColor" Value="#d16700"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="CornerRadius" Value="30"/>
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="HeightRequest" Value="90"/>
+            <Style.Triggers>
+                <Trigger TargetType="Button" Property="IsPressed" Value="True">
+                    <Setter Property="BackgroundColor" Value="#c15f01"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Application.Resources>
+</Application>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
