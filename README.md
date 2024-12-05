@@ -1,3 +1,3 @@
-# Calculadora con Xamarin.Forms
+# Calculadora realizada en Xamarin.Forms
 
-Aplicación móvil desarrollada con Xamarin.Forms.
+Aplicación móvil desarrollada en Xamarin.Forms.
